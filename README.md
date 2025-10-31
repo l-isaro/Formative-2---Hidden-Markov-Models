@@ -1,10 +1,7 @@
 # Formative 2 – Human Activity Recognition using Hidden Markov Models
 
 **Course:** Machine Learning Techniques – African Leadership University (2025)  
-**Authors:** Leslie Isaro & [Partner Name]  
-**Instructor:** [Instructor Name]  
-**Date:** October 2025  
-
+**Authors:** Leslie Isaro & David Ubushakebwimana
 ---
 
 ## Project Overview
