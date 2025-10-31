@@ -1,0 +1,53 @@
+{
+  "accuracy": 0.975,
+  "labels": [
+    "jumping",
+    "standing",
+    "still",
+    "walking"
+  ],
+  "confusion_matrix": [
+    [
+      10,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      9,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      10
+    ]
+  ],
+  "metrics": {
+    "jumping": {
+      "sensitivity": 1.0,
+      "specificity": 1.0
+    },
+    "standing": {
+      "sensitivity": 1.0,
+      "specificity": 0.9666666666666667
+    },
+    "still": {
+      "sensitivity": 0.9,
+      "specificity": 1.0
+    },
+    "walking": {
+      "sensitivity": 1.0,
+      "specificity": 1.0
+    }
+  }
+}
